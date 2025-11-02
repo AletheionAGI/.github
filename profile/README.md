@@ -81,20 +81,6 @@ o primeiro ato ético de uma IA é **recusar-se a mentir**.
 
 ---
 
-## 🔬 Resultados experimentais
-
-Em benchmarks reduzidos (*TruthfulQA-mini*, *SQuAD-mini*, *HaluEval-mini*), o Q mostrou correlação significativa com métricas externas de veracidade:
-
-| Métrica          | Correlação com Q | Fonte                     |
-| ---------------- | ---------------- | ------------------------- |
-| Factual Accuracy | r = 0.47–0.58    | Aletheion Preprint (2025) |
-| BERTScore        | ρ ≈ 0.49–0.55    | Aletheion Preprint (2025) |
-| Human Agreement  | r = 0.61         | Aletheion Preprint (2025) |
-
-Esses resultados validam Q como um **sinal interno de alinhamento epistemológico**.
-
----
-
 ## 🧠 Ética e segurança
 
 A AletheionAGI adota **contenção como princípio ético**:
@@ -149,7 +135,7 @@ Filósofos, engenheiros e cientistas cognitivos são bem-vindos para colaborar n
 * Semi-Symbolic Learning
 
 Envie um pull request, abra uma *issue*, ou entre em contato via
-📧 **[contact@alethea.tech](mailto:contact@alethea.tech)**
+📧 **[contact@aletheionagi.com](mailto:contact@aletheionagi.com)**
 
 ---
 
