@@ -35,7 +35,7 @@ um agente fala somente quando **Q ≥ Qmin**.
 
 ## 🧬 AletheiaEngine
 
-O **AletheiaEngine** é a implementação de referência da arquitetura proposta no artigo [*Aletheion: A Semi-Symbolic Architecture for Epistemic Alignment in AGI*](./Aletheion_Preprint___v1_001___2025.pdf).
+O **AletheiaEngine** é a implementação de referência da arquitetura proposta no artigo [*Aletheion: A Semi-Symbolic Architecture for Epistemic Alignment in AGI*](https://doi.org/10.13140/RG.2.2.29925.87527).
 
 ### 🔧 Estrutura principal
 
