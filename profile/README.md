@@ -75,20 +75,6 @@ Evaluation metrics:
 
 ---
 
-## ⚙️ Repository Structure
-
-```
-AletheionAGI/
-│
-├── aletheion-llm/              # Core implementation & architecture
-├── experiments/                # VARO training logs and metrics
-├── docs/                       # Papers, reports, and design notes
-├── data/                       # Evaluation datasets and configs
-└── community/                  # Discord & collaboration docs
-```
-
----
-
 ## 🧭 How to Get Involved
 
 * 🧩 Join our **Discord Research Hub**: [discord.gg/jHYuxP9wM8](https://discord.gg/jHYuxP9wM8)
@@ -153,7 +139,7 @@ you may obtain a **commercial license** directly from the Aletheion Research Col
 
 #### Contact for Commercial Licensing:
 
-📧 **[licensing@aletheion.org](mailto:contact@aletheionagi.com)**
+📧 **[contact@aletheionagi.com](mailto:contact@aletheionagi.com)**
 🌐 [https://github.com/AletheionAGI](https://github.com/AletheionAGI)
 
 ---
