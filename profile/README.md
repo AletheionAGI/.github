@@ -13,7 +13,7 @@ Our mission: **to build powerful yet self-calibrated intelligence.**
 
 The project is based on the research paper:
 
-> *[How to Solve Skynet: A Pyramidal Law for Epistemic Equilibrium](https://github.com/AletheionAGI/.github/blob/main/How_to_solve_Skynet__v_1_102.pdf)*
+> *[How to Solve Skynet: A Pyramidal Law for Epistemic Equilibrium](https://github.com/AletheionAGI/.github/blob/main/How_to_solve_Skynet_v_1_0_3.pdf)*
 > by Felipe Maya Muniz, Aletheion Research Collective, 2024
 
 ---
